@@ -9,11 +9,6 @@ public class Rabbit4 {
     @Autowired
     private Duck5 duck;
 
-   /* @Autowired
-    public void Rabbit4 (Needle7 needle) {
-        this.needle = needle;
-    }*/
-
     @Override
     public String toString() {
         return ", в зайце утка " + duck.toString();
