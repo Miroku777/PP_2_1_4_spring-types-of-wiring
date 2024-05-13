@@ -13,9 +13,4 @@ public class Rabbit4 {
     public String toString() {
         return ", в зайце утка " + duck.toString();
     }
-
-    @Autowired
-    public void setDuck(Duck5 duck) {
-        this.duck = duck;
-    }
 }

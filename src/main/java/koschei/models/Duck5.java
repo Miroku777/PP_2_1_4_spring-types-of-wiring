@@ -13,9 +13,4 @@ public class Duck5 {
     public String toString() {
         return ", в утке яйцо " + egg.toString();
     }
-
-    @Autowired
-    public void setEgg(Egg6 egg) {
-        this.egg = egg;
-    }
 }

@@ -15,9 +15,4 @@ public class Island2 {
     public String toString() {
         return ", на острове дерево " + wood.toString();
     }
-
-    @Autowired
-    public void setWood(Wood3 wood) {
-        this.wood = wood;
-    }
 }
