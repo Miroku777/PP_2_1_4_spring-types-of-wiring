@@ -2,7 +2,6 @@ package koschei.models;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
-
 public class Island2 {
 
     @Autowired
