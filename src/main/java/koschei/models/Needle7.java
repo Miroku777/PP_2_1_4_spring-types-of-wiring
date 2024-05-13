@@ -13,5 +13,4 @@ public class Needle7 {
     public String toString() {
         return ", смерть Кощея на игле :( " + "";
     }
-
 }
