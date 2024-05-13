@@ -12,4 +12,5 @@ public class Egg6 {
     public String toString() {
         return ", в яйце иголка " + needle.toString();
     }
+
 }
